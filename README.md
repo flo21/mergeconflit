@@ -1,2 +1,3 @@
+REMOTE
 # mergeconflit
 quelques lignes

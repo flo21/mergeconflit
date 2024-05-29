@@ -1,2 +1,3 @@
+LOCAL
 # mergeconflit
 quelques lignes
